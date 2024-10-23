@@ -1,0 +1,9 @@
+name: summative
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base
+  - r-tidyverse
+  - r-janitor
+prefix: /home/shaminie/miniconda3/envs/summative
